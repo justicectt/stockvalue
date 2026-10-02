@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>台股成交金額排行視覺化</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            overflow: hidden;
+        }
+
+        /* 頂部固定狀態列 */
+        #header-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 38px;
+            background: rgba(20, 20, 20, 0.85);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(6px);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 16px;
+            font-size: 13px;
+            z-index: 1000;
+        }
+
+        #header-bar .title {
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            color: #ffffff;
+        }
+
+        #header-bar .time-info {
+            font-size: 12px;
+            color: #aaaaaa;
+        }
+
+        #header-bar .time-info span {
+            color: #4da3ff;
+            font-weight: 500;
+        }
+
+        #chart {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100vw;
+            height: 100vh;
+            padding-top: 38px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- 頂部資料時間列 -->
+    <div id="header-bar">
+        <div class="title">台股成交額排行</div>
+        <div class="time-info">
+            盤面日期: <span id="data-date">--</span> | 抓取時間: <span id="crawl-time">--</span>
+        </div>
+    </div>
+
+    <!-- 泡泡圖容器 -->
+    <div id="chart"></div>
+
+    <!-- 1. D3.js 官方連線版 (CDN 長效快取) -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+
+    <!-- 2. 動態時間戳載入 data.js 防止快取 -->
+    <script>
+      document.write('<script src="./data.js?t=' + new Date().getTime() + '"><\/script>');
+    </script>
+
+    <!-- 3. 更新頂部時間資訊 -->
+    <script>
+      (function() {
+        if (typeof stock_data !== 'undefined') {
+          var dateElem = document.getElementById('data-date');
+          var timeElem = document.getElementById('crawl-time');
+          if (dateElem && stock_data.dataTime) {
+            dateElem.textContent = stock_data.dataTime;
+          }
+          if (timeElem && stock_data.crawlTime) {
+            timeElem.textContent = stock_data.crawlTime;
+          }
+        }
+      })();
+    </script>
+
+    <!-- 4. 前端繪圖邏輯 (手動版本號控制) -->
+    <script src="./my_chart.js?v=1.0"></script>
+
+</body>
+</html>
