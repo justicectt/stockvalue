@@ -100,34 +100,33 @@ function initChart(nodes) {
     // 核心視覺渲染規範：雙圈設計
     // ======================================================================
 
-    // [層級一：昨日圈]
-    nodeGroups.append("circle")
-        .attr("class", "previous-circle")
-        .attr("r", d => radiusScale(d.volPrevious || 0))
-        .attr("fill", "none")
-        .attr("stroke", "#555555")
-        .attr("stroke-width", 1)
-        .attr("stroke-dasharray", "3,3");
+    // [層級一：今日圈，先畫]
+nodeGroups.append("circle")
+    .attr("class", "today-circle")
+    .attr("r", d => radiusScale(d.volToday || 0))
+    .attr("stroke-width", d => d.isNew ? 3 : 1.5)
+    .attr("stroke", d => {
+        if (d.isNew) return "#FFD700";
+        return "#000000";
+    })
+    .attr("fill", d => {
+        const pct = d.price_change_pct || 0;
+        if (pct >= 9.5) return "#D32F2F";
+        if (pct > 0) return "#FF5252";
+        if (pct <= -9.5) return "#388E3C";
+        if (pct < 0) return "#4CAF50";
+        return "#757575";
+    });
 
-    // [層級二：今日圈]
-    nodeGroups.append("circle")
-        .attr("class", "today-circle")
-        .attr("r", d => radiusScale(d.volToday || 0))
-        .attr("stroke-width", d => d.isNew ? 3 : 1.5)
-        .attr("stroke", d => {
-            if (d.isNew) return "#FFD700";
-            return "#000000";
-        })
-        .attr("fill", d => {
-            const pct = d.price_change_pct || 0;
-
-            if (pct >= 9.5) return "#D32F2F";   // 漲停
-            if (pct > 0) return "#FF5252";      // 上漲
-            if (pct <= -9.5) return "#388E3C";  // 跌停
-            if (pct < 0) return "#4CAF50";      // 下跌
-
-            return "#757575";                    // 平盤
-        });
+// [層級二：昨日虛線圈，後畫，所以一定可見]
+nodeGroups.append("circle")
+    .attr("class", "previous-circle")
+    .attr("r", d => radiusScale(d.volPrevious || 0))
+    .attr("fill", "none")
+    .attr("stroke", "#b0b0b0")
+.attr("stroke-width", 1.5)
+.attr("stroke-dasharray", "4,3")
+    .style("pointer-events", "none");
 
     // 7. 第一行：股名
     nodeGroups.append("text")
