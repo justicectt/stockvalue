@@ -2,7 +2,7 @@ var stock_data = {
   "dataTime": "2026/10/06",
   "updateTime": "2026/10/06",
   "previousTime": "2026/10/05",
-  "crawlTime": "2026-10-06 13:55:04",
+  "crawlTime": "2026-10-07 09:00:04",
   "displayTopN": 50,
   "nodes": [
     {
@@ -16,11 +16,11 @@ var stock_data = {
       "high": 2590.0,
       "low": 2565.0,
       "spread": 25.0,
-      "volume": 18343.0,
-      "volToday": 473.0003,
+      "volume": 18438.0,
+      "volToday": 475.4561,
       "volPrevious": 615.0453,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2303",
@@ -33,11 +33,11 @@ var stock_data = {
       "high": 150.0,
       "low": 146.0,
       "spread": 4.0,
-      "volume": 304520.0,
-      "volToday": 449.9043,
+      "volume": 304914.0,
+      "volToday": 450.4855,
       "volPrevious": 499.532,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2454",
@@ -50,11 +50,11 @@ var stock_data = {
       "high": 5085.0,
       "low": 4915.0,
       "spread": 170.0,
-      "volume": 8245.0,
-      "volToday": 409.3559,
+      "volume": 8268.0,
+      "volToday": 410.4875,
       "volPrevious": 344.1046,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "1303",
@@ -67,11 +67,11 @@ var stock_data = {
       "high": 300.0,
       "low": 274.5,
       "spread": 25.5,
-      "volume": 113946.0,
-      "volToday": 327.7947,
+      "volume": 114083.0,
+      "volToday": 328.1961,
       "volPrevious": 248.5385,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "6274",
@@ -84,33 +84,16 @@ var stock_data = {
       "high": 1775.0,
       "low": 1680.0,
       "spread": 95.0,
-      "volume": 16845.0,
-      "volToday": 290.2363,
+      "volume": 16867.0,
+      "volToday": 290.6224,
       "volPrevious": 197.5234,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
-    },
-    {
-      "id": "2383",
-      "name": "台光電",
-      "rank": 6,
-      "market": "上市",
-      "price": 5995.0,
-      "price_change": 295.0,
-      "price_change_pct": 5.18,
-      "high": 6115.0,
-      "low": 5820.0,
-      "spread": 295.0,
-      "volume": 4643.0,
-      "volToday": 277.1175,
-      "volPrevious": 55.6907,
-      "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2308",
       "name": "台達電",
-      "rank": 7,
+      "rank": 6,
       "market": "上市",
       "price": 2050.0,
       "price_change": 45.0,
@@ -118,11 +101,28 @@ var stock_data = {
       "high": 2115.0,
       "low": 2010.0,
       "spread": 105.0,
-      "volume": 13548.0,
-      "volToday": 276.701,
+      "volume": 13591.0,
+      "volToday": 277.5825,
       "volPrevious": 298.6857,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
+    },
+    {
+      "id": "2383",
+      "name": "台光電",
+      "rank": 7,
+      "market": "上市",
+      "price": 5995.0,
+      "price_change": 295.0,
+      "price_change_pct": 5.18,
+      "high": 6115.0,
+      "low": 5820.0,
+      "spread": 295.0,
+      "volume": 4646.0,
+      "volToday": 277.2973,
+      "volPrevious": 55.6907,
+      "isNew": false,
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2368",
@@ -135,11 +135,11 @@ var stock_data = {
       "high": 1295.0,
       "low": 1200.0,
       "spread": 95.0,
-      "volume": 20938.0,
-      "volToday": 262.7698,
+      "volume": 20946.0,
+      "volToday": 262.8706,
       "volPrevious": 80.02,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "6213",
@@ -152,11 +152,11 @@ var stock_data = {
       "high": 818.0,
       "low": 762.0,
       "spread": 56.0,
-      "volume": 31737.0,
-      "volToday": 250.0379,
+      "volume": 31766.0,
+      "volToday": 250.2661,
       "volPrevious": 142.7038,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2317",
@@ -169,11 +169,11 @@ var stock_data = {
       "high": 266.5,
       "low": 253.5,
       "spread": 13.0,
-      "volume": 94696.0,
-      "volToday": 244.6279,
+      "volume": 94815.0,
+      "volToday": 244.9325,
       "volPrevious": 115.2942,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2313",
@@ -186,11 +186,11 @@ var stock_data = {
       "high": 256.0,
       "low": 245.0,
       "spread": 11.0,
-      "volume": 95903.0,
-      "volToday": 241.8648,
+      "volume": 96054.0,
+      "volToday": 242.2453,
       "volPrevious": 120.6231,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "4958",
@@ -203,11 +203,11 @@ var stock_data = {
       "high": 604.0,
       "low": 572.0,
       "spread": 32.0,
-      "volume": 39640.0,
-      "volToday": 231.405,
+      "volume": 39698.0,
+      "volToday": 231.7379,
       "volPrevious": 322.1915,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2492",
@@ -220,11 +220,11 @@ var stock_data = {
       "high": 395.0,
       "low": 362.5,
       "spread": 32.5,
-      "volume": 55371.0,
-      "volToday": 209.5098,
+      "volume": 55498.0,
+      "volToday": 210.0045,
       "volPrevious": 356.2521,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2409",
@@ -237,11 +237,11 @@ var stock_data = {
       "high": 39.5,
       "low": 37.15,
       "spread": 2.35,
-      "volume": 491709.0,
-      "volToday": 186.5758,
+      "volume": 493406.0,
+      "volToday": 187.2113,
       "volPrevious": 392.0254,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2327",
@@ -254,11 +254,11 @@ var stock_data = {
       "high": 635.0,
       "low": 615.0,
       "spread": 20.0,
-      "volume": 28233.0,
-      "volToday": 175.9896,
+      "volume": 28308.0,
+      "volToday": 176.4584,
       "volPrevious": 381.8459,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "6488",
@@ -271,11 +271,11 @@ var stock_data = {
       "high": 1260.0,
       "low": 1145.0,
       "spread": 115.0,
-      "volume": 13422.0,
-      "volToday": 162.41,
+      "volume": 13443.0,
+      "volToday": 162.663,
       "volPrevious": 220.3544,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "3037",
@@ -288,11 +288,11 @@ var stock_data = {
       "high": 1340.0,
       "low": 1285.0,
       "spread": 55.0,
-      "volume": 12197.0,
-      "volToday": 159.6498,
+      "volume": 12234.0,
+      "volToday": 160.1345,
       "volPrevious": 357.7086,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2408",
@@ -305,11 +305,11 @@ var stock_data = {
       "high": 535.0,
       "low": 524.0,
       "spread": 11.0,
-      "volume": 29810.0,
-      "volToday": 157.8407,
+      "volume": 29928.0,
+      "volToday": 158.4602,
       "volPrevious": 215.415,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "3443",
@@ -322,11 +322,11 @@ var stock_data = {
       "high": 8710.0,
       "low": 8110.0,
       "spread": 600.0,
-      "volume": 1842.0,
-      "volToday": 154.5075,
+      "volume": 1844.0,
+      "volToday": 154.675,
       "volPrevious": 55.181,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "3661",
@@ -339,11 +339,11 @@ var stock_data = {
       "high": 4240.0,
       "low": 3850.0,
       "spread": 390.0,
-      "volume": 3519.0,
-      "volToday": 143.3928,
+      "volume": 3524.0,
+      "volToday": 143.6018,
       "volPrevious": 109.7465,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "8358",
@@ -356,11 +356,11 @@ var stock_data = {
       "high": 578.0,
       "low": 548.0,
       "spread": 30.0,
-      "volume": 25464.0,
-      "volToday": 143.2221,
+      "volume": 25530.0,
+      "volToday": 143.5858,
       "volPrevious": 227.4944,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "3008",
@@ -373,11 +373,11 @@ var stock_data = {
       "high": 6915.0,
       "low": 6705.0,
       "spread": 210.0,
-      "volume": 1972.0,
-      "volToday": 134.4092,
+      "volume": 1978.0,
+      "volToday": 134.8205,
       "volPrevious": 152.4438,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "3665",
@@ -390,11 +390,11 @@ var stock_data = {
       "high": 2460.0,
       "low": 2260.0,
       "spread": 200.0,
-      "volume": 5155.0,
-      "volToday": 120.0943,
+      "volume": 5161.0,
+      "volToday": 120.2338,
       "volPrevious": 127.6577,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "3105",
@@ -407,11 +407,11 @@ var stock_data = {
       "high": 623.0,
       "low": 588.0,
       "spread": 35.0,
-      "volume": 19091.0,
-      "volToday": 114.8012,
+      "volume": 19142.0,
+      "volToday": 115.1031,
       "volPrevious": 291.7545,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "8046",
@@ -424,11 +424,11 @@ var stock_data = {
       "high": 1520.0,
       "low": 1485.0,
       "spread": 35.0,
-      "volume": 7427.0,
-      "volToday": 111.5928,
+      "volume": 7433.0,
+      "volToday": 111.6831,
       "volPrevious": 219.2852,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "3017",
@@ -441,33 +441,16 @@ var stock_data = {
       "high": 3700.0,
       "low": 3515.0,
       "spread": 185.0,
-      "volume": 3057.0,
-      "volToday": 111.149,
+      "volume": 3065.0,
+      "volToday": 111.4438,
       "volPrevious": 153.436,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
-    },
-    {
-      "id": "3374",
-      "name": "精材",
-      "rank": 27,
-      "market": "上櫃",
-      "price": 487.5,
-      "price_change": -11.0,
-      "price_change_pct": -2.21,
-      "high": 530.0,
-      "low": 481.0,
-      "spread": 49.0,
-      "volume": 21710.0,
-      "volToday": 109.5583,
-      "volPrevious": 0,
-      "isNew": true,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "6669",
       "name": "緯穎",
-      "rank": 28,
+      "rank": 27,
       "market": "上市",
       "price": 2290.0,
       "price_change": 140.0,
@@ -475,11 +458,28 @@ var stock_data = {
       "high": 2335.0,
       "low": 2185.0,
       "spread": 150.0,
-      "volume": 4813.0,
-      "volToday": 109.3647,
+      "volume": 4830.0,
+      "volToday": 109.754,
       "volPrevious": 58.21,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
+    },
+    {
+      "id": "3374",
+      "name": "精材",
+      "rank": 28,
+      "market": "上櫃",
+      "price": 487.5,
+      "price_change": -11.0,
+      "price_change_pct": -2.21,
+      "high": 530.0,
+      "low": 481.0,
+      "spread": 49.0,
+      "volume": 21733.0,
+      "volToday": 109.6704,
+      "volPrevious": 0,
+      "isNew": true,
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "3189",
@@ -492,11 +492,11 @@ var stock_data = {
       "high": 1105.0,
       "low": 1055.0,
       "spread": 50.0,
-      "volume": 9730.0,
-      "volToday": 104.5712,
+      "volume": 9743.0,
+      "volToday": 104.7103,
       "volPrevious": 321.7373,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2344",
@@ -509,11 +509,11 @@ var stock_data = {
       "high": 183.0,
       "low": 177.5,
       "spread": 5.5,
-      "volume": 57336.0,
-      "volToday": 102.9665,
+      "volume": 57681.0,
+      "volToday": 103.5789,
       "volPrevious": 159.2717,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "6257",
@@ -526,11 +526,11 @@ var stock_data = {
       "high": 286.0,
       "low": 267.5,
       "spread": 18.5,
-      "volume": 35447.0,
-      "volToday": 98.3888,
+      "volume": 35462.0,
+      "volToday": 98.4317,
       "volPrevious": 52.3301,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "8150",
@@ -543,11 +543,11 @@ var stock_data = {
       "high": 130.5,
       "low": 123.0,
       "spread": 7.5,
-      "volume": 76939.0,
-      "volToday": 97.8619,
+      "volume": 77045.0,
+      "volToday": 97.997,
       "volPrevious": 123.4975,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "1815",
@@ -560,11 +560,11 @@ var stock_data = {
       "high": 133.5,
       "low": 126.5,
       "spread": 7.0,
-      "volume": 74142.0,
-      "volToday": 95.7563,
+      "volume": 74292.0,
+      "volToday": 95.9468,
       "volPrevious": 91.8475,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2059",
@@ -581,7 +581,7 @@ var stock_data = {
       "volToday": 91.4823,
       "volPrevious": 59.4983,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2455",
@@ -594,11 +594,11 @@ var stock_data = {
       "high": 613.0,
       "low": 560.0,
       "spread": 53.0,
-      "volume": 15438.0,
-      "volToday": 90.1466,
+      "volume": 15461.0,
+      "volToday": 90.277,
       "volPrevious": 0,
       "isNew": true,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "6182",
@@ -611,11 +611,11 @@ var stock_data = {
       "high": 134.5,
       "low": 126.5,
       "spread": 8.0,
-      "volume": 66645.0,
-      "volToday": 86.8338,
+      "volume": 66957.0,
+      "volToday": 87.2331,
       "volPrevious": 122.5951,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "6187",
@@ -628,11 +628,11 @@ var stock_data = {
       "high": 1590.0,
       "low": 1445.0,
       "spread": 145.0,
-      "volume": 5515.0,
-      "volToday": 83.7184,
+      "volume": 5521.0,
+      "volToday": 83.8105,
       "volPrevious": 65.9118,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "3406",
@@ -645,11 +645,11 @@ var stock_data = {
       "high": 1095.0,
       "low": 1020.0,
       "spread": 75.0,
-      "volume": 7869.0,
-      "volToday": 82.944,
+      "volume": 7897.0,
+      "volToday": 83.2366,
       "volPrevious": 52.4646,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "6239",
@@ -662,11 +662,11 @@ var stock_data = {
       "high": 312.0,
       "low": 299.5,
       "spread": 12.5,
-      "volume": 26659.0,
-      "volToday": 81.7454,
+      "volume": 26712.0,
+      "volToday": 81.91,
       "volPrevious": 70.4474,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "3491",
@@ -679,11 +679,11 @@ var stock_data = {
       "high": 1755.0,
       "low": 1645.0,
       "spread": 110.0,
-      "volume": 4238.0,
-      "volToday": 72.2172,
+      "volume": 4240.0,
+      "volToday": 72.2515,
       "volPrevious": 32.74,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2345",
@@ -696,11 +696,11 @@ var stock_data = {
       "high": 2105.0,
       "low": 2035.0,
       "spread": 70.0,
-      "volume": 3412.0,
-      "volToday": 70.3727,
+      "volume": 3423.0,
+      "volToday": 70.5982,
       "volPrevious": 119.9191,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "3711",
@@ -713,11 +713,11 @@ var stock_data = {
       "high": 755.0,
       "low": 733.0,
       "spread": 22.0,
-      "volume": 9202.0,
-      "volToday": 68.1576,
+      "volume": 9224.0,
+      "volToday": 68.3213,
       "volPrevious": 124.6624,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "2449",
@@ -730,11 +730,11 @@ var stock_data = {
       "high": 301.0,
       "low": 288.5,
       "spread": 12.5,
-      "volume": 22953.0,
-      "volToday": 68.0656,
+      "volume": 22975.0,
+      "volToday": 68.1312,
       "volPrevious": 52.9264,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "3081",
@@ -747,11 +747,11 @@ var stock_data = {
       "high": 3055.0,
       "low": 2915.0,
       "spread": 140.0,
-      "volume": 2260.0,
-      "volToday": 67.0437,
+      "volume": 2267.0,
+      "volToday": 67.2481,
       "volPrevious": 203.5195,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "3481",
@@ -764,11 +764,11 @@ var stock_data = {
       "high": 52.8,
       "low": 50.8,
       "spread": 2.0,
-      "volume": 124675.0,
-      "volToday": 64.1074,
+      "volume": 124939.0,
+      "volToday": 64.2423,
       "volPrevious": 194.396,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "5347",
@@ -781,11 +781,11 @@ var stock_data = {
       "high": 195.0,
       "low": 184.5,
       "spread": 10.5,
-      "volume": 33208.0,
-      "volToday": 63.4129,
+      "volume": 33235.0,
+      "volToday": 63.4645,
       "volPrevious": 28.0959,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "4979",
@@ -798,11 +798,11 @@ var stock_data = {
       "high": 622.0,
       "low": 561.0,
       "spread": 61.0,
-      "volume": 10807.0,
-      "volToday": 63.1194,
+      "volume": 10824.0,
+      "volToday": 63.216,
       "volPrevious": 0,
       "isNew": true,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "8039",
@@ -815,11 +815,11 @@ var stock_data = {
       "high": 305.5,
       "low": 291.5,
       "spread": 14.0,
-      "volume": 21067.0,
-      "volToday": 62.8111,
+      "volume": 21111.0,
+      "volToday": 62.9411,
       "volPrevious": 144.5746,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "7769",
@@ -832,11 +832,11 @@ var stock_data = {
       "high": 6115.0,
       "low": 5815.0,
       "spread": 300.0,
-      "volume": 926.0,
-      "volToday": 55.155,
+      "volume": 927.0,
+      "volToday": 55.2141,
       "volPrevious": 37.6862,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     },
     {
       "id": "3231",
@@ -849,11 +849,11 @@ var stock_data = {
       "high": 194.5,
       "low": 188.0,
       "spread": 6.5,
-      "volume": 28376.0,
-      "volToday": 53.9819,
+      "volume": 28409.0,
+      "volToday": 54.0445,
       "volPrevious": 90.7039,
       "isNew": false,
-      "last_update": "2026-10-06 13:55:04"
+      "last_update": "2026-10-07 09:00:04"
     }
   ]
 };
