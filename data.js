@@ -2,7 +2,7 @@ var stock_data = {
   "dataTime": "2026/10/19",
   "updateTime": "2026/10/19",
   "previousTime": "2026/10/16",
-  "crawlTime": "2026-10-19 13:25:04",
+  "crawlTime": "2026-10-19 13:30:05",
   "displayTopN": 50,
   "nodes": [
     {
@@ -16,11 +16,11 @@ var stock_data = {
       "high": 2410.0,
       "low": 2390.0,
       "spread": 20.0,
-      "volume": 19549.0,
-      "volToday": 468.7951,
+      "volume": 19557.0,
+      "volToday": 468.9875,
       "volPrevious": 811.0073,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "1303",
@@ -33,11 +33,11 @@ var stock_data = {
       "high": 316.5,
       "low": 298.0,
       "spread": 18.5,
-      "volume": 95260.0,
-      "volToday": 291.4898,
+      "volume": 95322.0,
+      "volToday": 291.6771,
       "volPrevious": 367.9959,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "1815",
@@ -50,11 +50,11 @@ var stock_data = {
       "high": 154.0,
       "low": 136.0,
       "spread": 18.0,
-      "volume": 195621.0,
-      "volToday": 290.3774,
+      "volume": 195624.0,
+      "volToday": 290.382,
       "volPrevious": 202.4311,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "8039",
@@ -67,28 +67,28 @@ var stock_data = {
       "high": 320.5,
       "low": 298.0,
       "spread": 22.5,
-      "volume": 77161.0,
-      "volToday": 238.3002,
+      "volume": 77234.0,
+      "volToday": 238.5191,
       "volPrevious": 87.6932,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "2327",
       "name": "國巨*",
       "rank": 5,
       "market": "上市",
-      "price": 535.0,
-      "price_change": -32.0,
-      "price_change_pct": -5.64,
+      "price": 536.0,
+      "price_change": -31.0,
+      "price_change_pct": -5.47,
       "high": 542.0,
       "low": 517.0,
       "spread": 25.0,
-      "volume": 43173.0,
-      "volToday": 228.8009,
+      "volume": 43186.0,
+      "volToday": 228.8705,
       "volPrevious": 203.6605,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "2454",
@@ -101,11 +101,11 @@ var stock_data = {
       "high": 4250.0,
       "low": 4145.0,
       "spread": 105.0,
-      "volume": 4587.0,
-      "volToday": 192.1178,
+      "volume": 4592.0,
+      "volToday": 192.3291,
       "volPrevious": 332.4287,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "2303",
@@ -118,28 +118,28 @@ var stock_data = {
       "high": 132.0,
       "low": 126.0,
       "spread": 6.0,
-      "volume": 124036.0,
-      "volToday": 159.1318,
+      "volume": 124092.0,
+      "volToday": 159.2054,
       "volPrevious": 120.7957,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "2408",
       "name": "南亞科",
       "rank": 8,
       "market": "上市",
-      "price": 436.5,
-      "price_change": -11.0,
-      "price_change_pct": -2.46,
+      "price": 436.0,
+      "price_change": -11.5,
+      "price_change_pct": -2.57,
       "high": 437.0,
       "low": 415.5,
       "spread": 21.5,
-      "volume": 36929.0,
-      "volToday": 156.6462,
+      "volume": 36941.0,
+      "volToday": 156.6986,
       "volPrevious": 207.7601,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "6274",
@@ -152,45 +152,45 @@ var stock_data = {
       "high": 1640.0,
       "low": 1500.0,
       "spread": 140.0,
-      "volume": 9553.0,
-      "volToday": 148.7985,
+      "volume": 9555.0,
+      "volToday": 148.831,
       "volPrevious": 172.6434,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "6269",
       "name": "台郡",
       "rank": 10,
       "market": "上市",
-      "price": 79.5,
-      "price_change": -2.5,
-      "price_change_pct": -3.05,
+      "price": 79.6,
+      "price_change": -2.4,
+      "price_change_pct": -2.93,
       "high": 90.0,
       "low": 79.3,
       "spread": 10.7,
-      "volume": 175673.0,
-      "volToday": 148.4517,
+      "volume": 175816.0,
+      "volToday": 148.5653,
       "volPrevious": 22.1301,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "2368",
       "name": "金像電",
       "rank": 11,
       "market": "上市",
-      "price": 1250.0,
-      "price_change": 5.0,
-      "price_change_pct": 0.4,
+      "price": 1245.0,
+      "price_change": 0.0,
+      "price_change_pct": 0.0,
       "high": 1265.0,
       "low": 1185.0,
       "spread": 80.0,
-      "volume": 11389.0,
-      "volToday": 140.4461,
+      "volume": 11392.0,
+      "volToday": 140.4836,
       "volPrevious": 190.1344,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "1802",
@@ -203,28 +203,28 @@ var stock_data = {
       "high": 69.7,
       "low": 63.4,
       "spread": 6.3,
-      "volume": 206208.0,
-      "volToday": 138.4799,
+      "volume": 206766.0,
+      "volToday": 138.8484,
       "volPrevious": 94.4819,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3443",
       "name": "創意",
       "rank": 13,
       "market": "上市",
-      "price": 7825.0,
-      "price_change": 345.0,
-      "price_change_pct": 4.61,
+      "price": 7835.0,
+      "price_change": 355.0,
+      "price_change_pct": 4.75,
       "high": 7980.0,
       "low": 7065.0,
       "spread": 915.0,
-      "volume": 1716.0,
-      "volToday": 129.8301,
+      "volume": 1718.0,
+      "volToday": 129.9868,
       "volPrevious": 138.0046,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3008",
@@ -241,24 +241,24 @@ var stock_data = {
       "volToday": 129.5952,
       "volPrevious": 285.6324,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3037",
       "name": "欣興",
       "rank": 15,
       "market": "上市",
-      "price": 1115.0,
-      "price_change": 25.0,
-      "price_change_pct": 2.29,
+      "price": 1125.0,
+      "price_change": 35.0,
+      "price_change_pct": 3.21,
       "high": 1125.0,
       "low": 1040.0,
       "spread": 85.0,
-      "volume": 11116.0,
-      "volToday": 120.4583,
+      "volume": 11119.0,
+      "volToday": 120.4919,
       "volPrevious": 159.8024,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3653",
@@ -275,7 +275,7 @@ var stock_data = {
       "volToday": 114.615,
       "volPrevious": 74.8153,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3189",
@@ -288,11 +288,11 @@ var stock_data = {
       "high": 990.0,
       "low": 950.0,
       "spread": 40.0,
-      "volume": 11700.0,
-      "volToday": 113.9456,
+      "volume": 11702.0,
+      "volToday": 113.9652,
       "volPrevious": 147.3717,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3105",
@@ -309,24 +309,24 @@ var stock_data = {
       "volToday": 109.9014,
       "volPrevious": 62.836,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "2409",
       "name": "友達",
       "rank": 19,
       "market": "上市",
-      "price": 36.6,
-      "price_change": 0.7,
-      "price_change_pct": 1.95,
+      "price": 36.65,
+      "price_change": 0.75,
+      "price_change_pct": 2.09,
       "high": 36.7,
       "low": 34.45,
       "spread": 2.25,
-      "volume": 293125.0,
-      "volToday": 104.3077,
+      "volume": 293216.0,
+      "volToday": 104.341,
       "volPrevious": 122.9916,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "6669",
@@ -339,28 +339,28 @@ var stock_data = {
       "high": 1895.0,
       "low": 1795.0,
       "spread": 100.0,
-      "volume": 5641.0,
-      "volToday": 103.8138,
+      "volume": 5642.0,
+      "volToday": 103.8327,
       "volPrevious": 228.1038,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "2308",
       "name": "台達電",
       "rank": 21,
       "market": "上市",
-      "price": 1650.0,
-      "price_change": 15.0,
-      "price_change_pct": 0.92,
+      "price": 1645.0,
+      "price_change": 10.0,
+      "price_change_pct": 0.61,
       "high": 1655.0,
       "low": 1590.0,
       "spread": 65.0,
-      "volume": 6321.0,
-      "volToday": 102.9823,
+      "volume": 6325.0,
+      "volToday": 103.0482,
       "volPrevious": 121.4043,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "4958",
@@ -373,11 +373,11 @@ var stock_data = {
       "high": 553.0,
       "low": 533.0,
       "spread": 20.0,
-      "volume": 18337.0,
-      "volToday": 99.6913,
+      "volume": 18348.0,
+      "volToday": 99.7513,
       "volPrevious": 151.1557,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "8358",
@@ -390,28 +390,28 @@ var stock_data = {
       "high": 502.0,
       "low": 447.5,
       "spread": 54.5,
-      "volume": 20597.0,
-      "volToday": 99.1466,
+      "volume": 20600.0,
+      "volToday": 99.1612,
       "volPrevious": 72.8482,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "6488",
       "name": "環球晶",
       "rank": 24,
       "market": "上櫃",
-      "price": 878.0,
-      "price_change": -24.0,
-      "price_change_pct": -2.66,
+      "price": 879.0,
+      "price_change": -23.0,
+      "price_change_pct": -2.55,
       "high": 883.0,
       "low": 838.0,
       "spread": 45.0,
-      "volume": 11161.0,
-      "volToday": 95.6499,
+      "volume": 11163.0,
+      "volToday": 95.6674,
       "volPrevious": 135.4478,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "8046",
@@ -424,11 +424,11 @@ var stock_data = {
       "high": 1390.0,
       "low": 1295.0,
       "spread": 95.0,
-      "volume": 7067.0,
-      "volToday": 94.9141,
+      "volume": 7085.0,
+      "volToday": 95.1634,
       "volPrevious": 123.6377,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "2345",
@@ -445,7 +445,7 @@ var stock_data = {
       "volToday": 87.2242,
       "volPrevious": 67.2179,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "6505",
@@ -458,11 +458,11 @@ var stock_data = {
       "high": 128.0,
       "low": 115.5,
       "spread": 12.5,
-      "volume": 69738.0,
-      "volToday": 84.8009,
+      "volume": 69746.0,
+      "volToday": 84.8103,
       "volPrevious": 59.1431,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "8021",
@@ -475,11 +475,11 @@ var stock_data = {
       "high": 541.0,
       "low": 466.0,
       "spread": 75.0,
-      "volume": 16530.0,
-      "volToday": 84.7642,
+      "volume": 16536.0,
+      "volToday": 84.7953,
       "volPrevious": 0,
       "isNew": true,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "2344",
@@ -492,28 +492,28 @@ var stock_data = {
       "high": 156.0,
       "low": 151.0,
       "spread": 5.0,
-      "volume": 53724.0,
-      "volToday": 82.2565,
+      "volume": 53731.0,
+      "volToday": 82.2675,
       "volPrevious": 75.6792,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3026",
       "name": "禾伸堂",
       "rank": 30,
       "market": "上市",
-      "price": 735.0,
-      "price_change": -71.0,
-      "price_change_pct": -8.81,
+      "price": 736.0,
+      "price_change": -70.0,
+      "price_change_pct": -8.68,
       "high": 780.0,
       "low": 726.0,
       "spread": 54.0,
-      "volume": 11041.0,
-      "volToday": 81.9086,
+      "volume": 11047.0,
+      "volToday": 81.9528,
       "volPrevious": 100.2563,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3711",
@@ -526,45 +526,45 @@ var stock_data = {
       "high": 675.0,
       "low": 639.0,
       "spread": 36.0,
-      "volume": 11940.0,
-      "volToday": 78.5218,
+      "volume": 11941.0,
+      "volToday": 78.5285,
       "volPrevious": 122.4865,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "2383",
       "name": "台光電",
       "rank": 32,
       "market": "上市",
-      "price": 5150.0,
-      "price_change": -15.0,
-      "price_change_pct": -0.29,
+      "price": 5135.0,
+      "price_change": -30.0,
+      "price_change_pct": -0.58,
       "high": 5165.0,
       "low": 4955.0,
       "spread": 210.0,
-      "volume": 1493.0,
-      "volToday": 75.503,
+      "volume": 1495.0,
+      "volToday": 75.6059,
       "volPrevious": 130.9265,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "2313",
       "name": "華通",
       "rank": 33,
       "market": "上市",
-      "price": 248.0,
-      "price_change": 0.0,
-      "price_change_pct": 0.0,
+      "price": 248.5,
+      "price_change": 0.5,
+      "price_change_pct": 0.2,
       "high": 252.0,
       "low": 237.0,
       "spread": 15.0,
-      "volume": 30338.0,
-      "volToday": 74.2863,
+      "volume": 30339.0,
+      "volToday": 74.2888,
       "volPrevious": 121.2879,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3017",
@@ -581,7 +581,7 @@ var stock_data = {
       "volToday": 71.0892,
       "volPrevious": 116.2581,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3081",
@@ -594,11 +594,11 @@ var stock_data = {
       "high": 2620.0,
       "low": 2385.0,
       "spread": 235.0,
-      "volume": 2752.0,
-      "volToday": 69.1564,
+      "volume": 2754.0,
+      "volToday": 69.2084,
       "volPrevious": 106.4167,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3167",
@@ -611,11 +611,11 @@ var stock_data = {
       "high": 1035.0,
       "low": 977.0,
       "spread": 58.0,
-      "volume": 6746.0,
-      "volToday": 67.5139,
+      "volume": 6752.0,
+      "volToday": 67.5732,
       "volPrevious": 85.8945,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "2449",
@@ -628,45 +628,45 @@ var stock_data = {
       "high": 268.5,
       "low": 255.0,
       "spread": 13.5,
-      "volume": 24900.0,
-      "volToday": 64.9848,
+      "volume": 24909.0,
+      "volToday": 65.0086,
       "volPrevious": 45.8854,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "6770",
       "name": "力積電",
       "rank": 38,
       "market": "上市",
-      "price": 65.4,
-      "price_change": -1.9,
-      "price_change_pct": -2.82,
+      "price": 65.5,
+      "price_change": -1.8,
+      "price_change_pct": -2.67,
       "high": 65.7,
       "low": 63.0,
       "spread": 2.7,
-      "volume": 98159.0,
-      "volToday": 62.9812,
+      "volume": 98188.0,
+      "volToday": 63.0002,
       "volPrevious": 51.7978,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "2317",
       "name": "鴻海",
       "rank": 39,
       "market": "上市",
-      "price": 240.5,
-      "price_change": -3.5,
-      "price_change_pct": -1.43,
+      "price": 240.0,
+      "price_change": -4.0,
+      "price_change_pct": -1.64,
       "high": 242.5,
       "low": 238.5,
       "spread": 4.0,
-      "volume": 25481.0,
-      "volToday": 61.1077,
+      "volume": 25488.0,
+      "volToday": 61.1245,
       "volPrevious": 120.7944,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "8996",
@@ -679,11 +679,11 @@ var stock_data = {
       "high": 1575.0,
       "low": 1455.0,
       "spread": 120.0,
-      "volume": 3979.0,
-      "volToday": 60.637,
+      "volume": 3980.0,
+      "volToday": 60.6524,
       "volPrevious": 94.0535,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "6805",
@@ -700,24 +700,24 @@ var stock_data = {
       "volToday": 53.0987,
       "volPrevious": 39.1994,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3406",
       "name": "玉晶光",
       "rank": 42,
       "market": "上市",
-      "price": 1050.0,
-      "price_change": -35.0,
-      "price_change_pct": -3.23,
+      "price": 1045.0,
+      "price_change": -40.0,
+      "price_change_pct": -3.69,
       "high": 1085.0,
       "low": 1005.0,
       "spread": 80.0,
-      "volume": 5090.0,
-      "volToday": 52.9872,
+      "volume": 5091.0,
+      "volToday": 52.9977,
       "volPrevious": 169.4409,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3481",
@@ -730,11 +730,11 @@ var stock_data = {
       "high": 47.2,
       "low": 45.65,
       "spread": 1.55,
-      "volume": 109920.0,
-      "volToday": 51.0054,
+      "volume": 109956.0,
+      "volToday": 51.0223,
       "volPrevious": 47.4722,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "5274",
@@ -751,24 +751,24 @@ var stock_data = {
       "volToday": 50.0098,
       "volPrevious": 46.3178,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "6278",
       "name": "台表科",
       "rank": 45,
       "market": "上市",
-      "price": 289.5,
-      "price_change": -9.0,
-      "price_change_pct": -3.02,
+      "price": 288.5,
+      "price_change": -10.0,
+      "price_change_pct": -3.35,
       "high": 295.5,
       "low": 276.0,
       "spread": 19.5,
-      "volume": 16670.0,
-      "volToday": 47.6011,
+      "volume": 16675.0,
+      "volToday": 47.6155,
       "volPrevious": 120.2427,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "6223",
@@ -785,7 +785,7 @@ var stock_data = {
       "volToday": 47.0945,
       "volPrevious": 76.5209,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "6209",
@@ -802,24 +802,24 @@ var stock_data = {
       "volToday": 46.0401,
       "volPrevious": 54.4481,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "6147",
       "name": "頎邦",
       "rank": 48,
       "market": "上櫃",
-      "price": 208.5,
-      "price_change": 1.0,
-      "price_change_pct": 0.48,
+      "price": 209.0,
+      "price_change": 1.5,
+      "price_change_pct": 0.72,
       "high": 209.5,
       "low": 194.5,
       "spread": 15.0,
-      "volume": 22060.0,
-      "volToday": 44.3702,
+      "volume": 22066.0,
+      "volToday": 44.3827,
       "volPrevious": 58.5343,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3264",
@@ -832,11 +832,11 @@ var stock_data = {
       "high": 260.5,
       "low": 241.5,
       "spread": 19.0,
-      "volume": 16980.0,
-      "volToday": 42.8276,
+      "volume": 16981.0,
+      "volToday": 42.8302,
       "volPrevious": 62.2527,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     },
     {
       "id": "3374",
@@ -849,11 +849,11 @@ var stock_data = {
       "high": 440.5,
       "low": 399.0,
       "spread": 41.5,
-      "volume": 10229.0,
-      "volToday": 42.7322,
+      "volume": 10232.0,
+      "volToday": 42.7453,
       "volPrevious": 57.4498,
       "isNew": false,
-      "last_update": "2026-10-19 13:25:04"
+      "last_update": "2026-10-19 13:30:04"
     }
   ]
 };
