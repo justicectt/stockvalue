@@ -2,7 +2,7 @@ var stock_data = {
   "dataTime": "2026/11/04",
   "updateTime": "2026/11/04",
   "previousTime": "2026/11/03",
-  "crawlTime": "2026-11-04 13:40:03",
+  "crawlTime": "2026-11-04 13:45:03",
   "displayTopN": 50,
   "nodes": [
     {
@@ -20,7 +20,7 @@ var stock_data = {
       "volToday": 1028.9701,
       "volPrevious": 846.2759,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2454",
@@ -37,7 +37,7 @@ var stock_data = {
       "volToday": 503.6355,
       "volPrevious": 427.0482,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "1303",
@@ -54,7 +54,7 @@ var stock_data = {
       "volToday": 321.2023,
       "volPrevious": 246.8068,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2308",
@@ -71,7 +71,7 @@ var stock_data = {
       "volToday": 300.8259,
       "volPrevious": 182.2121,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3037",
@@ -88,7 +88,7 @@ var stock_data = {
       "volToday": 277.8523,
       "volPrevious": 264.0909,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "1815",
@@ -105,7 +105,7 @@ var stock_data = {
       "volToday": 270.6446,
       "volPrevious": 195.718,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2408",
@@ -122,7 +122,7 @@ var stock_data = {
       "volToday": 265.9746,
       "volPrevious": 209.9351,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3443",
@@ -139,7 +139,7 @@ var stock_data = {
       "volToday": 265.46,
       "volPrevious": 179.4223,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "6213",
@@ -156,7 +156,7 @@ var stock_data = {
       "volToday": 257.5847,
       "volPrevious": 154.8406,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2383",
@@ -173,7 +173,7 @@ var stock_data = {
       "volToday": 252.7693,
       "volPrevious": 139.6515,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2327",
@@ -190,7 +190,7 @@ var stock_data = {
       "volToday": 213.4113,
       "volPrevious": 201.0082,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "6274",
@@ -207,7 +207,7 @@ var stock_data = {
       "volToday": 202.864,
       "volPrevious": 126.2679,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3711",
@@ -224,7 +224,7 @@ var stock_data = {
       "volToday": 192.5714,
       "volPrevious": 168.7254,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3653",
@@ -241,7 +241,7 @@ var stock_data = {
       "volToday": 190.9784,
       "volPrevious": 116.4659,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "1802",
@@ -258,7 +258,7 @@ var stock_data = {
       "volToday": 185.1477,
       "volPrevious": 204.2703,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2303",
@@ -275,7 +275,7 @@ var stock_data = {
       "volToday": 163.4848,
       "volPrevious": 178.1527,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3189",
@@ -292,7 +292,7 @@ var stock_data = {
       "volToday": 162.8508,
       "volPrevious": 150.1617,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3105",
@@ -309,7 +309,7 @@ var stock_data = {
       "volToday": 157.5788,
       "volPrevious": 128.2063,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3017",
@@ -326,7 +326,7 @@ var stock_data = {
       "volToday": 157.0801,
       "volPrevious": 84.6051,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "6488",
@@ -343,7 +343,7 @@ var stock_data = {
       "volToday": 149.0845,
       "volPrevious": 74.3501,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2317",
@@ -360,7 +360,7 @@ var stock_data = {
       "volToday": 144.3883,
       "volPrevious": 106.822,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "8046",
@@ -377,7 +377,7 @@ var stock_data = {
       "volToday": 143.8939,
       "volPrevious": 104.6885,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "4958",
@@ -394,7 +394,7 @@ var stock_data = {
       "volToday": 143.0496,
       "volPrevious": 160.2858,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2344",
@@ -411,7 +411,7 @@ var stock_data = {
       "volToday": 135.795,
       "volPrevious": 133.7114,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2059",
@@ -428,7 +428,7 @@ var stock_data = {
       "volToday": 131.057,
       "volPrevious": 49.1423,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2368",
@@ -445,7 +445,7 @@ var stock_data = {
       "volToday": 126.7993,
       "volPrevious": 111.141,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3008",
@@ -462,7 +462,7 @@ var stock_data = {
       "volToday": 123.803,
       "volPrevious": 136.8966,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2360",
@@ -479,7 +479,7 @@ var stock_data = {
       "volToday": 114.2445,
       "volPrevious": 47.6936,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "6672",
@@ -496,7 +496,7 @@ var stock_data = {
       "volToday": 108.788,
       "volPrevious": 53.2298,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3081",
@@ -513,7 +513,7 @@ var stock_data = {
       "volToday": 108.6653,
       "volPrevious": 88.7185,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2492",
@@ -530,7 +530,7 @@ var stock_data = {
       "volToday": 102.7354,
       "volPrevious": 84.0007,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "5274",
@@ -547,7 +547,7 @@ var stock_data = {
       "volToday": 101.0332,
       "volPrevious": 49.0559,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "8996",
@@ -564,7 +564,7 @@ var stock_data = {
       "volToday": 94.8994,
       "volPrevious": 46.3119,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3026",
@@ -581,7 +581,7 @@ var stock_data = {
       "volToday": 84.6232,
       "volPrevious": 57.0212,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3406",
@@ -598,7 +598,7 @@ var stock_data = {
       "volToday": 83.7469,
       "volPrevious": 84.9644,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "6223",
@@ -615,7 +615,7 @@ var stock_data = {
       "volToday": 83.6281,
       "volPrevious": 41.5831,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3324",
@@ -632,7 +632,7 @@ var stock_data = {
       "volToday": 83.447,
       "volPrevious": 93.1107,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "6669",
@@ -649,7 +649,7 @@ var stock_data = {
       "volToday": 76.1785,
       "volPrevious": 47.654,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "6770",
@@ -666,7 +666,7 @@ var stock_data = {
       "volToday": 73.6547,
       "volPrevious": 67.2664,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3665",
@@ -683,7 +683,7 @@ var stock_data = {
       "volToday": 70.2873,
       "volPrevious": 46.53,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "8299",
@@ -700,7 +700,7 @@ var stock_data = {
       "volToday": 67.4753,
       "volPrevious": 68.1237,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3167",
@@ -717,7 +717,7 @@ var stock_data = {
       "volToday": 65.8454,
       "volPrevious": 40.8038,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "6805",
@@ -734,7 +734,7 @@ var stock_data = {
       "volToday": 65.6924,
       "volPrevious": 41.8469,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2345",
@@ -751,7 +751,7 @@ var stock_data = {
       "volToday": 63.6135,
       "volPrevious": 54.9805,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "8358",
@@ -768,7 +768,7 @@ var stock_data = {
       "volToday": 60.6339,
       "volPrevious": 82.0179,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3481",
@@ -785,7 +785,7 @@ var stock_data = {
       "volToday": 58.8337,
       "volPrevious": 55.7752,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "3661",
@@ -802,7 +802,7 @@ var stock_data = {
       "volToday": 56.2438,
       "volPrevious": 57.7839,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2382",
@@ -819,7 +819,7 @@ var stock_data = {
       "volToday": 55.6464,
       "volPrevious": 32.9846,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "2409",
@@ -836,7 +836,7 @@ var stock_data = {
       "volToday": 55.0381,
       "volPrevious": 61.1552,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     },
     {
       "id": "7769",
@@ -853,7 +853,7 @@ var stock_data = {
       "volToday": 54.7236,
       "volPrevious": 43.9912,
       "isNew": false,
-      "last_update": "2026-11-04 13:40:03"
+      "last_update": "2026-11-04 13:45:03"
     }
   ]
 };
